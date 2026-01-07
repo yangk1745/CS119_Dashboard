@@ -12,8 +12,8 @@ This project explores adverse event data for [drug/class], using Python for data
 1. Clone this repo:
 2. Install dependencies:
 3. Run notebooks in order:
-- `01_GLP1_20250530.ipynb`
-- `02_GLP1app_202506053.ipynb`
+- `01_GLP1_20250530.ipynb` (data processing)
+- `02_GLP1app_202506053.ipynb` (dashboard app)
 4. Dashboard is also hosted at: https://engrossing-forest-cobra.anacondaapps.cloud/GLP1app_20250605
 
 ## Key Features
