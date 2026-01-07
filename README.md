@@ -1,7 +1,10 @@
 # Drug Safety Dashboard using Holoviz
 
 ## Project Overview
-This project explores adverse event data for [drug/class], using Python for data cleaning and Holoviz for interactive dashboard creation. The dashboard is hosted via Anaconda.
+This project analyzes adverse event data from the U.S. Food and Drug Administration (FDA) Adverse Event Reporting System (FAERS) to generate Data Dashboard. The analysis demonstrates data cleaning, preprocessing, exploratory analysis, and visualization using HoloViz, with a focus on glucagon-like peptide-1 (GLP-1) receptor agonists.
+
+## Data Souurce
+Data were obtained from the FDA FAERS (FDA Adverse Event Reporting System) Public Dashboard and filtered to include reports involving all GLP-1 receptor agonists. FAERS is a spontaneous reporting system that contains adverse event reports submitted by healthcare professionals, manufacturers, and consumers. (Note: FAERS data are subject to reporting bias, duplication, and missingness and are intended for signal detection rather than incidence estimation.)
 
 ## Folder Structure
 - `notebooks/` - Jupyter notebooks: data cleaning, dashboard app
